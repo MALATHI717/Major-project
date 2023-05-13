@@ -1,0 +1,15 @@
+/* Add some padding to the form */
+
+.container {
+    padding: 20px;
+}
+
+
+/* Style the invalid feedback */
+
+.invalid-feedback {
+    display: none;
+    color: red;
+    font-size: 14px;
+    margin-top: 5px;
+}
